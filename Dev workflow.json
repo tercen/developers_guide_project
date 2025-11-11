@@ -1,9 +1,9 @@
 {
  "kind": "Workflow",
- "id": "0",
+ "id": "1",
  "isDeleted": false,
  "rev": "",
- "description": "",
+ "description": "My development workflow.",
  "name": "Dev workflow",
  "acl": {
   "kind": "Acl",
@@ -101,7 +101,8 @@
       "measurement",
       "rowId"
      ]
-    }
+    },
+    "filterSelector": ""
    }
   },
   {

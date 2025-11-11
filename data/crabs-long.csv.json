@@ -39,7 +39,7 @@
  "version": "",
  "isPublic": false,
  "projectId": "",
- "folderId": "1",
+ "folderId": "0",
  "nRows": 1000,
  "columns": [
   {
@@ -137,5 +137,6 @@
  "relation": {
   "kind": "Relation",
   "id": "9fecd178-58a9-4de9-b5f5-5bf01a92ff55"
- }
+ },
+ "size": 20368
 }
